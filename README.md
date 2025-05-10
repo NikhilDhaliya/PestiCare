@@ -1,4 +1,5 @@
-PestiCare – AI-Powered Pest & Disease Detection for Farmers
+PestiCare – AI-Powered Pest & Disease Detection for Farmers.
+<br>
 Team ZeroBit | Members: Nikhil (Team Leader), Shaury Chaudhary, Ramji Awasthi
 
 Description:
